@@ -1,4 +1,4 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&width=435&lines=mudkip)
 
 ### Languages
-<img src="python.png" alt="Python" width="64" height="77"/>
+<img src="python.png" alt="Python" width="32" height="37"/>
