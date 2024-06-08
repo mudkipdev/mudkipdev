@@ -17,4 +17,4 @@
 ![macOS](https://img.shields.io/badge/Mac-FFFFFF.svg?style=for-the-badge&logo=apple&logoColor=black)
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 100%; opacity: 1; background: url('https://raw.githubusercontent.com/mudkipdev/mudkipdev/main/trollface.png');]{x0000}$}
+\mmlToken{ms}[fontfamily="goombafont; color:red; z-index: 1000; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 100%; opacity: 1; background: url('https://raw.githubusercontent.com/mudkipdev/mudkipdev/main/trollface.png');]{x0000}$}
