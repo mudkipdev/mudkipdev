@@ -17,5 +17,5 @@
 ![macOS](https://img.shields.io/badge/Mac-FFFFFF.svg?style=for-the-badge&logo=apple&logoColor=black)
 
 ```math
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 80%; width: 80%; animation: 0.8s linear both alternate infinite shrink-x; background-image: url('https://github.com/mudkipdev/mudkipdev/blob/main/trollface.png?raw=true');"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 200dvmin; background-position: 0 0; height: 200dvmin; translate: -50% -50%; opacity: 1; animation: 0.8s linear both alternate infinite shrink-x; background-image: url('https://github.com/mudkipdev/mudkipdev/blob/main/trollface.png?raw=true');"]{}
 ```
